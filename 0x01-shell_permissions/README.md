@@ -13,3 +13,4 @@
 12-directory_permissions create directory my_dir and set its permissions
 13-change_group change group owner to school for the file hello
 100-change_owner_and_group change owner and group
+101-symbolic_link_permissions change owner and group of a symbolic link
