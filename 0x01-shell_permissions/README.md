@@ -4,3 +4,4 @@
 3-new_owner change the owner of the file hello to the user betty
 4-empty create an empty file called hello
 5-execute add execute permission to the owner of the file hello
+6-multiple_permissions add multiple permissions
