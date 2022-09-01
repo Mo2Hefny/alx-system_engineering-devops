@@ -7,3 +7,4 @@
 6-multiple_permissions add multiple permissions
 7-everybody add execution permission to all users
 8-James_Bond set changes to permissions for users
+9-John_Doe change permissions for hello file
