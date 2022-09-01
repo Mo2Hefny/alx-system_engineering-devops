@@ -6,3 +6,4 @@
 5-execute add execute permission to the owner of the file hello
 6-multiple_permissions add multiple permissions
 7-everybody add execution permission to all users
+8-James_Bond set changes to permissions for users
