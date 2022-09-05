@@ -12,3 +12,4 @@ Delete all regular files with .js
 Count number of directories and subdirectories
 Display the 10 newest files
 Print only words that appear exactly once
+Display lines containing the pattern “root” from the file /etc/passwd
