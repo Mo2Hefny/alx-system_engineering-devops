@@ -10,3 +10,4 @@ Write into the file ls_cwd_content
 Duplicate the last line of the file iacta
 Delete all regular files with .js
 Count number of directories and subdirectories
+Display the 10 newest files
