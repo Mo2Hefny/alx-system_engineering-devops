@@ -8,3 +8,4 @@ Display the third line of the file iacta
 Create a file
 Write into the file ls_cwd_content
 Duplicate the last line of the file iacta
+Delete all regular files with .js
