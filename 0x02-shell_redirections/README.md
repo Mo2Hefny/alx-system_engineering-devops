@@ -11,3 +11,4 @@ Duplicate the last line of the file iacta
 Delete all regular files with .js
 Count number of directories and subdirectories
 Display the 10 newest files
+Print only words that appear exactly once
