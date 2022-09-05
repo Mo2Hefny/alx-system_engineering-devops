@@ -20,3 +20,4 @@ Display all lines of the file /etc/ssh/sshd_config starting with a letter
 Replace characters
 Create a script that removes all letters c and C from input
 Reverse its input
+Display all users and their home directories
