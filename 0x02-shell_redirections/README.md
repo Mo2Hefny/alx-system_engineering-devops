@@ -7,3 +7,4 @@ Display the first 10 lines of /etc/passwd
 Display the third line of the file iacta
 Create a file
 Write into the file ls_cwd_content
+Duplicate the last line of the file iacta
