@@ -1,2 +1,0 @@
-#!/binash
-find . -name "*.ext" -type f -delete
