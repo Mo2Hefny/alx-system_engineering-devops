@@ -20,3 +20,4 @@ Create a new global variable.
 
 Print the result of the addition with an environment variable TRUEKNOWLEDGE.
 
+Print the result of POWER divided by DIVIDE.
