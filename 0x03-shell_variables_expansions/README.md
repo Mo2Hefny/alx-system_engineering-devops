@@ -25,3 +25,5 @@ Print the result of POWER divided by DIVIDE.
 Display the result of BREATH to the power LOVE.
 
 Convert a number from base 2 to base 10.
+
+Print all possible combinations of two letters, except oo.
