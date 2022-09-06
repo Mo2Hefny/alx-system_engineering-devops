@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -rk3 | cut -d ' ' -f 1 | uniq | head -11
+tail -n +2 | cut -d '/' -f 1 | rev | cut -d '-' -f 2- | rev | tr -s ' ' | uniq | head -11
