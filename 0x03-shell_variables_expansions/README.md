@@ -2,18 +2,21 @@
 
 ## Usage
 
-Create a script that creates an alias.
+Create an alias.
 
-Create a script that prints hello user, where user is the current Linux user.
+Print hello user, where user is the current Linux user.
 
 Add /action to the PATH.
 
-Create a script that counts the number of directories in the PATH.
+Count the number of directories in the PATH.
 
-Create a script that lists environment variables.
+List environment variables.
 
-Create a script that lists all local variables and environment variables, and functions.
+List all local variables and environment variables, and functions.
 
-Create a script that creates a new local variable.
+Create a new local variable.
 
-Create a script that creates a new global variable.
+Create a new global variable.
+
+Print the result of the addition with an environment variable TRUEKNOWLEDGE.
+
