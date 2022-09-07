@@ -31,3 +31,5 @@ Print all possible combinations of two letters, except oo.
 Print a number with two decimal places.
 
 Convert a number from base 10 to base 16.
+
+Encode and decode text using the rot13 encryption.
