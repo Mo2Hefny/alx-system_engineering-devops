@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(($(echo $WATER|tr "water" "12345")*$(echo $STIR|tr "stir." "04321")))|tr "53342745" "bestchol"
