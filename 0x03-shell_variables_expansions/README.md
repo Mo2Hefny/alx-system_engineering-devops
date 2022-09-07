@@ -29,3 +29,5 @@ Convert a number from base 2 to base 10.
 Print all possible combinations of two letters, except oo.
 
 Print a number with two decimal places.
+
+Convert a number from base 10 to base 16.
